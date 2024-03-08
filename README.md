@@ -1,4 +1,4 @@
-# Duck Simulation Program
+# Strategy Pattern - Duck Simulation Program
 
 This Java program simulates the behavior of different types of ducks using the strategy pattern. The program is organized into several classes and interfaces, each representing different aspects of a duck's behavior.
 
